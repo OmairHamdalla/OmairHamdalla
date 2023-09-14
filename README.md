@@ -1,5 +1,5 @@
 <h1 align="middle">Hello! , I'm Omair Hamd alla</h1>
-<h2  align="middle">~ Software Developer ~</h2>
+<h3 align="middle" style="font-size: 10">~ Software Developer ~</h3>
 <h6 align="middle">Junior university student</h6>
 
 <h3 align="left">My accounts: </h3>
