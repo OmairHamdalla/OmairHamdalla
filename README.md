@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1 align="center">Welcome! , I'm Omair Hamd alla</h1>
+<h3 align="center">I'm a Software Developer</h3>
+<h3 align="center">I'm a Software Developer</h3>
 
-<!--
-**OmairHamdalla/OmairHamdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">My accounts: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/omair-hamd-alla-844a74246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="34" width="34" /></a>
+<a href="https://www.instagram.com/omair.ha/" target="blank"> < img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="34" width="34" /></a>
+</p>
 
 Here are some ideas to get you started:
 
