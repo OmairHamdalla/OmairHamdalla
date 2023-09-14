@@ -6,8 +6,8 @@
 <h3 align="left">My accounts: </h3>
 
 <div>
-<a style ="margin:5px" href="https://www.linkedin.com/in/omair-hamd-alla-844a74246" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" something" height="34" width="34" /></a>
-<a style ="margin:5px" href="https://www.instagram.com/omair.ha/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="34" width="34"/> </a>
+<a href="https://www.linkedin.com/in/omair-hamd-alla-844a74246" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" something" height="35" width="44" /></a>
+<a href="https://www.instagram.com/omair.ha/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="44"/> </a>
 </div>
 
 Here are some ideas to get you started:
