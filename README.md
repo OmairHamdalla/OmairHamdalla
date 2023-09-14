@@ -1,4 +1,3 @@
-<style>  a{margin: 5px;}  </style>
 
 <h1 align="middle">Hello! , I'm Omair Hamd alla</h1>
 <h3  align="middle">~ Software Developer ~</h3>
@@ -7,8 +6,8 @@
 <h3 align="left">My accounts: </h3>
 
 <div>
-<a href="https://www.linkedin.com/in/omair-hamd-alla-844a74246" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" something" height="34" width="34" /></a>
-<a href="https://www.instagram.com/omair.ha/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="34" width="34"/> </a>
+<a style ="margin:5px" href="https://www.linkedin.com/in/omair-hamd-alla-844a74246" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" something" height="34" width="34" /></a>
+<a style ="margin:5px" href="https://www.instagram.com/omair.ha/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="34" width="34"/> </a>
 </div>
 
 Here are some ideas to get you started:
