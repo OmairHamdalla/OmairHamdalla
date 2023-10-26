@@ -1,8 +1,8 @@
 <h1 align="middle">Hello! , I'm Omair Hamd alla</h1>
-<h3 align="middle"> <  >  Software Developer <​/> </h3>
-<h6 align="middle" > Junior university student in Turkey </h6>
+<h3 align="middle"> <  >   Software Developer <​/> </h3>
+<h6 align="middle" > 3rd Year University Student at Istanbul Aydin University    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Istanbul_Ayd%C4%B1n_University_logo.svg/2048px-Istanbul_Ayd%C4%B1n_University_logo.svg.png" height="45" width="45"/> </h6>
 
-
+  
 <h2 align="left">My accounts: </h2>
 
 <div>
