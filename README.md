@@ -1,6 +1,6 @@
 <h1 align="middle">Hello! , I'm Omair Hamd alla</h1>
 <h3 align="middle"> <  >   Software Developer <​/> </h3>
-<h6 align="middle" > 4th Year University Student at Istanbul Aydin University    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Istanbul_Ayd%C4%B1n_University_logo.svg/2048px-Istanbul_Ayd%C4%B1n_University_logo.svg.png" height="45" width="45"/> </h6>
+<h6 align="middle" > 4th Year University Student at Istanbul Aydin University     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Istanbul_Ayd%C4%B1n_University_logo.svg/2048px-Istanbul_Ayd%C4%B1n_University_logo.svg.png" height="45" width="45"/> </h6>
 
 [![Check my CV](https://img.shields.io/badge/Check%20my%20CV-28a745?style=for-the-badge&logo=readme&logoColor=white)](https://omairhamdalla.github.io/Portfolio/assets/CV.pdf)
 [![Check my Portfolio](https://img.shields.io/badge/Check%20my%20Portfolio-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://omairhamdalla.github.io/Portfolio/)
