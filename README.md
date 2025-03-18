@@ -2,7 +2,7 @@
 <h3 align="middle"> <  >   Software Developer <​/> </h3>
 <h6 align="middle" > 4th Year University Student at Istanbul Aydin University     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Istanbul_Ayd%C4%B1n_University_logo.svg/2048px-Istanbul_Ayd%C4%B1n_University_logo.svg.png" height="45" width="45"/> </h6>
 
-[![Check my CV](https://img.shields.io/badge/Check%20my%20CV-77DD77?style=for-the-badge&logo=readme&logoColor=white)](https://omairhamdalla.github.io/Portfolio/assets/CV.pdf)
+[![Check my CV](https://img.shields.io/badge/Check%20my%20CV-6fc96f?style=for-the-badge&logo=readme&logoColor=white)](https://omairhamdalla.github.io/Portfolio/assets/CV.pdf)
 [![Check my Portfolio](https://img.shields.io/badge/Check%20my%20Portfolio-a07be3?style=for-the-badge&logo=github&logoColor=white)](https://omairhamdalla.github.io/Portfolio/)
 
 
@@ -10,7 +10,7 @@
 <h2 align="left">Good at:</h2>
 <div>
   
-<img src="https://img.shields.io/badge/Java-ed8c8c?style=for-the-badge&logo=openjdk&logoColor=5e3636" alt="Java" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/Java-f7a6a6?style=for-the-badge&logo=openjdk&logoColor=5e3636" alt="Java" height="30" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/JavaScript-F9E79F?style=for-the-badge&logo=javascript&logoColor=453803" alt="JavaScript" height="30" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/Python-70a7cc?style=for-the-badge&logo=python&logoColor=f7ea97" alt="Python" height="30" style="margin-right: 5px"/>
 <img src="https://img.shields.io/badge/C-D6EAF8?style=for-the-badge&logo=c&logoColor=2E86C1" alt="C" height="30" style="margin-right: 5px"/>
