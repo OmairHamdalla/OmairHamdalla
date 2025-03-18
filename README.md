@@ -10,14 +10,14 @@
 <h2 align="left">Good at:</h2>
 <div>
   
-    <img src="https://img.shields.io/badge/Java-ed8c8c?style=for-the-badge&logo=openjdk&logoColor=5e3636" alt="Java" height="30" style="margin-right: 5px"/>
-    <img src="https://img.shields.io/badge/JavaScript-F9E79F?style=for-the-badge&logo=javascript&logoColor=453803" alt="JavaScript" height="30" style="margin-right: 5px"/>
-    <img src="https://img.shields.io/badge/Python-70a7cc?style=for-the-badge&logo=python&logoColor=f7ea97" alt="Python" height="30" style="margin-right: 5px"/>
-    <img src="https://img.shields.io/badge/C-D6EAF8?style=for-the-badge&logo=c&logoColor=2E86C1" alt="C" height="30" style="margin-right: 5px"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-AED6F1?style=for-the-badge&logo=cplusplus&logoColor=21618C" alt="C++" height="30" style="margin-right: 5px"/>
-    <img src="https://img.shields.io/badge/C%23-A9DFBF?style=for-the-badge&logo=csharp&logoColor=196F3D" alt="C#" height="30" style="margin-right: 5px"/>
-    <img src="https://img.shields.io/badge/SQL-B2BABB?style=for-the-badge&logo=postgresql&logoColor=34495E" alt="SQL" height="30" style="margin-right: 5px"/>
-    <img src="https://img.shields.io/badge/Flutter-AED6F1?style=for-the-badge&logo=flutter&logoColor=21618C" alt="Flutter" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/Java-ed8c8c?style=for-the-badge&logo=openjdk&logoColor=5e3636" alt="Java" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/JavaScript-F9E79F?style=for-the-badge&logo=javascript&logoColor=453803" alt="JavaScript" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/Python-70a7cc?style=for-the-badge&logo=python&logoColor=f7ea97" alt="Python" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/C-D6EAF8?style=for-the-badge&logo=c&logoColor=2E86C1" alt="C" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/C%2B%2B-AED6F1?style=for-the-badge&logo=cplusplus&logoColor=21618C" alt="C++" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/C%23-A9DFBF?style=for-the-badge&logo=csharp&logoColor=196F3D" alt="C#" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/SQL-B2BABB?style=for-the-badge&logo=postgresql&logoColor=34495E" alt="SQL" height="30" style="margin-right: 5px"/>
+<img src="https://img.shields.io/badge/Flutter-AED6F1?style=for-the-badge&logo=flutter&logoColor=21618C" alt="Flutter" height="30" style="margin-right: 5px"/>
     
 
 
